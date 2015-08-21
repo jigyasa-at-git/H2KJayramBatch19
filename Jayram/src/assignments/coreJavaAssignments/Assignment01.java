@@ -1,6 +1,6 @@
-package assignments;
+package assignments.coreJavaAssignments;
 
-public class assignment01 {
+public class Assignment01 {
 
 	public static void main(String[] args) {
 /*		
