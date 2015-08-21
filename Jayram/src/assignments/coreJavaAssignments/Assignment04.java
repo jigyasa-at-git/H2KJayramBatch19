@@ -22,10 +22,10 @@ public class Assignment04 {
 		System.out.println("Amount of Deposit: ");
 		float deposit = scan.nextFloat();
 
-		System.out.println("Yearly Interest rate (%): ");
+		System.out.println("Yearly Interest rate(%): ");
 		float interest = scan.nextFloat();
 
-		System.out.println("Income tax (%): ");
+		System.out.println("Income tax(%): ");
 		float tax = scan.nextFloat();
 		
 		System.out.println("The amount of deposit: "+deposit);
