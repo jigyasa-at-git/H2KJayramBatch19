@@ -2,7 +2,7 @@ package assignments.coreJavaAssignments;
 
 import java.util.Scanner;
 
-public class Assignment08 {
+public class Question08 {
 
 	public static void main(String[] args) {
 		/*Write a Java program to calculate the revenue from a sale based on the unit price 

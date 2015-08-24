@@ -2,7 +2,7 @@ package assignments.coreJavaAssignments;
 
 import java.util.Scanner;
 
-public class Assignment05 {
+public class Question05 {
 
 	public static void main(String[] args) {
 		/*Write Java program to allow the user to  input his/her age. 

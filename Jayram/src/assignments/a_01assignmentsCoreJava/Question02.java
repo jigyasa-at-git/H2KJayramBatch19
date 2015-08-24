@@ -2,7 +2,7 @@ package assignments.coreJavaAssignments;
 
 import java.util.Scanner;
 
-public class Assignment02 {
+public class Question02 {
 	
 	public static void main(String[] args){
 		
@@ -22,15 +22,15 @@ public class Assignment02 {
 		
 		System.out.println("n1 = "+n1 + " || "+"n2 = "+n2);
 		
-		Assignment02 add = new Assignment02();
+		Question02 add = new Question02();
 		add.add(n1,n2);
 		
-		Assignment02 subtract = new Assignment02();
+		Question02 subtract = new Question02();
 		subtract.sub(n1, n2);
 		
 		multi(n1, n2);
 		
-		Assignment02.div(n1, n2);
+		Question02.div(n1, n2);
 		
 	}
 	

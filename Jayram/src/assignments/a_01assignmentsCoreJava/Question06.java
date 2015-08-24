@@ -2,7 +2,7 @@ package assignments.coreJavaAssignments;
 
 import java.util.Scanner;
 
-public class Assignment06 {
+public class Question06 {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package assignments.coreJavaAssignments;
 
 import java.util.Scanner;
 
-public class Assignment07 {
+public class Question07 {
 	
 	/*Write a Java program that determines a student’s grade. 
 	 * The program will read three types of scores(quiz, mid­term, and final scores) 

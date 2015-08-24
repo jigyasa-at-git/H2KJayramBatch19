@@ -2,7 +2,7 @@ package assignments.coreJavaAssignments;
 
 import java.util.Scanner;
 
-public class Assignment10 {
+public class Question10 {
 
 	public static void main(String[] args) {
 		/*Write a Java program that allows the user to choose the correct answer of a question.
@@ -58,14 +58,15 @@ public class Assignment10 {
 			 ans =scan.next();
 		 		}	
 			 break;
-		 case "c":
-			 System.out.println("Good Job!" );
-			 break;
 		 case "d":{
 			 System.out.println("Try again!" );
 			 ans =scan.next();
 		 		}	
 			 break;
+		 case "c":{
+			 System.out.println("Good Job!" );
+			 break;
+			    }
 		 default:
 			 break;
 			 
