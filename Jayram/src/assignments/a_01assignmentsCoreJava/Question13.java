@@ -1,4 +1,4 @@
-package assignments.coreJavaAssignments;
+package assignments.a_01assignmentsCoreJava;
 
 import java.util.Scanner;
 
